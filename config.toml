@@ -7,6 +7,7 @@ Copyright = "All rights reserved - 2018"
 canonifyurls = true
 theme = "casper"
 
+
 [params]
   description = "De Website van Bosch en Duin klassieke muziek. Hier bieden wij live klassieke concerten aan, met ondermeer piano en zang."
   metadescription = "De Website van Bosch en Duin klassieke muziek. Hier bieden wij live klassieke concerten aan, met ondermeer piano en zang."
