@@ -6,8 +6,10 @@ description: Op 12 augustus 2018 zal de meesterpianiste Alexandra Kaptein en sol
 image: /images/DSC00068.JPG
 tags:
   - archief
-  - volgend-concert
+  - aankondiging-concert
+  - programma
   - nieuws
+slug: test-slug
 # menu: main
 # weight: 0
 ---

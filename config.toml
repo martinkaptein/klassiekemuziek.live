@@ -46,6 +46,12 @@ theme = "casper2"
    
 [[menu.main]]
   name = "Archief"
-  weight = -1
+  weight = -2
   identifier = "tags/archief"
   url = "/tags/archief"
+  
+[[menu.main]]
+  name = "Nieuws"
+  weight = -1
+  identifier = "tags/nieuws"
+  url = "/tags/nieuws"

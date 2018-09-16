@@ -29,3 +29,5 @@ Ons eerste concert vond plaats op 12 augustus j.l. Alexandra Kaptein presenteerd
 
 
 Wij hopen dat onze volgende concerten net zo succesvol worden! 
+
+Lees het [nieuws hier](/tags/nieuws), of bekijk de [aankondiging voor het volgende concert hier](/tags/aankondiging-concert). 

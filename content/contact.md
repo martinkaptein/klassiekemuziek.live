@@ -5,7 +5,7 @@ draft: false
 image: 
 description: Marina Kaptein is de contactpersoon en de manager van Bosch en Duin klassieke muziek. Neem met Marina Kaptein contact op.
 menu: main
-weight: -2
+weight: -3
 ---
 
 ### Contact gegevens van Klassieke muziek in Bosch en Duin
