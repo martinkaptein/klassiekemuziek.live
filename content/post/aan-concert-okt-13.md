@@ -5,8 +5,7 @@ draft: false
 description: Op 13 oktober 2018 zullen de pianisten Alexandra Kaptein en Martin Kaptein een concert piano aan de Vossenlaan 41 in 3735KM Bosch en Duin verzorgen. Op het programma staan werken van W.A.Mozart, E.Grieg, S.Rachmaninov en F.Liszt.
 #image: /images/DSC00068.JPG
 tags:
-  - aankondiging-concert
-  - nieuws
+  - archief
 slug: aankondiging-concert-13-10-2018
 # menu: main
 # weight: 0

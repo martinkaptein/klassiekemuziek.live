@@ -5,8 +5,7 @@ draft: false
 description: Uitnodiging voor thuisconcert op zondag 3 februari 2019 aan de Vosselaan 41 in 3735KM Bosch en Duin. Het concert begint om 16:00 en wordt verzorgt door Duo MARCATO met Ekaterina Beleskina en Martin Kaptein. Op het programma staan werken van C. W. Gluck, W. A. Mozart, F. Schubert, C.Debussy, F. Poulenc. 
 #image: /images/DSC00068.JPG
 tags:
-  - aankondiging-concert
-  - nieuws
+  - archief
 slug: aankondiging-concert-3-februari-2019
 # menu: main
 # weight: 0

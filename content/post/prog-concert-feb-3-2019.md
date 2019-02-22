@@ -1,12 +1,11 @@
 ---
-title: "Programma Concert 3 februarie 2019"
+title: "Programma Concert 3 februari 2019"
 date: 2019-01-23T12:04:16+01:00
 draft: false
 description: Programma van het thuisconcert op 3 februarie 2019 van Duo MARCATO met Ekaterina Beleskina en Martin Kaptein in Bosch en Duin.
 image: /images/duo-marcato-1.jpg
 tags:
-  - programma
-  - nieuws
+  - archief
 slug: programma-concert-3-februari-2019
 # menu: main
 # weight: 0
